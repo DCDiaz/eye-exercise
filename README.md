@@ -4,7 +4,7 @@
 A programming exercise for creating animated eyeballs on the screen.
 
 ## Installation / Usage
-Download all of the files within this repository, and load the index.html file in a web browser. This app can run while hosted either locally or on a remote web server. For a live preview, you can run the index.html file in this repo, directly, by visting this URL: https://dcdiaz.github.io/eyes-exercise/index.html
+Download all of the files within this repository, and load the index.html file in a web browser. This app can run while hosted either locally or on a remote web server. For a live preview, you can run the index.html file in this repo, directly, by visting this URL: https://dcdiaz.github.io/eyes-exercise/eyes.html
 
 ## Roadmap
 - On the Frog Eyes screen, I would like to add an animated fly (or dragonfly) that randomly flies around the screen, and the frog's eye will automatically follow it.
